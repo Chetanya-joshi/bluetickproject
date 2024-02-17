@@ -1,0 +1,40 @@
+input{
+    width:32%;
+    margin:5px;
+}
+
+.inp{
+    width:100%;
+}
+
+.hm{
+    width:33%;
+}
+
+.hm input{
+    width:80%;
+    
+}
+
+.hms{
+    width:100%;
+    margin-top:30px;
+}
+
+.hms input{
+    width:93%;
+}
+
+.headingss{
+    font-size:40px;
+    font-weight:600;
+    color:blue;
+    margin-bottom:20px;
+}
+
+.headingm{
+    font-size:22px;
+    color:grey;
+    font-weight:500;
+    margin-bottom:30px;
+}

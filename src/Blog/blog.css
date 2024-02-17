@@ -1,0 +1,9 @@
+.mains{
+    margin-top:100px;
+}
+
+@media(max-width:500px){
+    .card{
+        margin:0px !important;
+    }
+}
